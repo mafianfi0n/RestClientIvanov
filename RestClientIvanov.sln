@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30611.23
+VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClientIvanov", "RestClientIvanov.csproj", "{F2FDA534-990B-4D89-BE8F-27295E5F3BDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClientIvanov", "RestClientIvanov\RestClientIvanov.csproj", "{ABA20621-E5FF-408C-9EE4-2B16D430A141}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F2FDA534-990B-4D89-BE8F-27295E5F3BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2FDA534-990B-4D89-BE8F-27295E5F3BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F2FDA534-990B-4D89-BE8F-27295E5F3BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F2FDA534-990B-4D89-BE8F-27295E5F3BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA20621-E5FF-408C-9EE4-2B16D430A141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA20621-E5FF-408C-9EE4-2B16D430A141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA20621-E5FF-408C-9EE4-2B16D430A141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA20621-E5FF-408C-9EE4-2B16D430A141}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {056B3461-6132-4A4B-9AC5-BB2B7A3253D2}
+		SolutionGuid = {09A489CC-9CE1-4259-BA58-61A19442F778}
 	EndGlobalSection
 EndGlobal
